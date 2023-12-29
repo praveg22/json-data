@@ -31,6 +31,12 @@
           "average": 78,
           "min": 79,
           "max": 117
+        },
+        {
+          "title": "Temp3",
+          "average": 78,
+          "min": 79,
+          "max": 117
         }
       ]
     }
